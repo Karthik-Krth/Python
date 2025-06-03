@@ -1,0 +1,15 @@
+# ls = ["raju","krth","harun",369,True]
+
+# for i in ls :
+#     print(i)
+
+# tp =("Guna","Madhav","Charan",99,True)
+
+# for i in tp :
+#     print(i)
+
+
+s = "Krth is Good"
+
+for i in s :
+    print(i)

@@ -1,0 +1,4 @@
+ls = ["raju","krth","harun",369,True]
+
+# for i in ls :
+#     print(i)
